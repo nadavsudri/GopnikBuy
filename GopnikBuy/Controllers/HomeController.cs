@@ -13,10 +13,6 @@ namespace GopnikBuy.Controllers
             return View();
         }
 
-        public ActionResult About()
-        {
-            return View();
-        }
 
         public string Nahum()
         {
